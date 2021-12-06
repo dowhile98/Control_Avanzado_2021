@@ -51,7 +51,6 @@ A continuación, se muestra la salida PWM del microcontrolador. El PWM generado 
 A continuación, se muestra el código generado por Embedded Coder para MRAC.
 <img src="https://user-images.githubusercontent.com/47931397/144938919-d566f536-3395-47bb-b206-ea40885e85ca.png">
 #### Resultado
-
 <img src="https://user-images.githubusercontent.com/47931397/144939502-95ff4784-bab7-4adf-b0fe-6c1d854803b4.png">
 
 ## AUTORES
