@@ -1,0 +1,3 @@
+config load "D:\UNAC\CICLO-9\CONTROL AVANZADO\CODIGO\MATLAB\ControlMRAC\ControlMRAC.ioc"
+project generate ui
+exit wait
